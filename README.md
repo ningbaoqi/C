@@ -10,3 +10,5 @@
 [数组](https://github.com/ningbaoqi/C/blob/master/README-array.md)
 ### 指针
 [指针](https://github.com/ningbaoqi/C/blob/master/README-pointer.md)
+### 函数
+[函数](https://github.com/ningbaoqi/C/blob/master/README-function.md)
