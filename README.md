@@ -8,3 +8,5 @@
 [枚举 联合 结构体](https://github.com/ningbaoqi/C/blob/master/README-Enum-Union-Struct.md)
 ### 数组
 [数组](https://github.com/ningbaoqi/C/blob/master/README-array.md)
+### 指针
+[指针](https://github.com/ningbaoqi/C/blob/master/README-pointer.md)
