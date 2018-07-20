@@ -31,4 +31,4 @@
 ### 输入与输出函数
 [输入与输出函数](https://github.com/ningbaoqi/C/blob/master/README-IO-function.md)
 ### 标准函数
-[输入与输出函数](https://github.com/ningbaoqi/C/blob/master/README-standered-function.md)
+[标准函数](https://github.com/ningbaoqi/C/blob/master/README-standered-function.md)
