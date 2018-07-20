@@ -26,3 +26,5 @@
 [字符类别测试函数](https://github.com/ningbaoqi/C/blob/master/README-test-function.md)
 ### 诊断函数
 [诊断函数](https://github.com/ningbaoqi/C/blob/master/README-assert-function.md)
+### 字符串函数
+[字符串函数](https://github.com/ningbaoqi/C/blob/master/README-string-function.md)
