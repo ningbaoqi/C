@@ -20,3 +20,5 @@
 [内存函数](https://github.com/ningbaoqi/C/blob/master/README-memory-function.md)
 ### 控制台输入输出函数
 [控制台输入输出函数](https://github.com/ningbaoqi/C/blob/master/README-consule-function.md)
+### 数学函数
+[数学函数](https://github.com/ningbaoqi/C/blob/master/README-math-function.md)
