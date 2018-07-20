@@ -22,3 +22,5 @@
 [控制台输入输出函数](https://github.com/ningbaoqi/C/blob/master/README-consule-function.md)
 ### 数学函数
 [数学函数](https://github.com/ningbaoqi/C/blob/master/README-math-function.md)
+### 字符类别测试函数
+[字符类别测试函数](https://github.com/ningbaoqi/C/blob/master/README-test-function.md)
