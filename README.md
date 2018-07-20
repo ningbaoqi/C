@@ -12,6 +12,8 @@
 [指针](https://github.com/ningbaoqi/C/blob/master/README-pointer.md)
 ### 函数
 [函数](https://github.com/ningbaoqi/C/blob/master/README-function.md)
+### 类型定义typedef
+[类型定义typedef](https://github.com/ningbaoqi/C/blob/master/README-typedef-function.md)
 ### 驱动器_目录函数
 [驱动器_目录函数](https://github.com/ningbaoqi/C/blob/master/README-drive-function.md)
 ### 终止程序函数
