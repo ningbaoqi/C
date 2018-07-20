@@ -34,3 +34,5 @@
 [标准函数](https://github.com/ningbaoqi/C/blob/master/README-standered-function.md)
 ### 低级IO
 [低级IO](https://github.com/ningbaoqi/C/blob/master/README-LIO-function.md)
+### 预处理
+[预处理](https://github.com/ningbaoqi/C/blob/master/README-pre-do-function.md)
