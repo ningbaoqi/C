@@ -16,3 +16,5 @@
 [驱动器_目录函数](https://github.com/ningbaoqi/C/blob/master/README-drive-function.md)
 ### 终止程序函数
 [终止程序函数](https://github.com/ningbaoqi/C/blob/master/README-process-function.md)
+### 内存函数
+[内存函数](https://github.com/ningbaoqi/C/blob/master/README-memory-function.md)
