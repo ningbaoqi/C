@@ -4,3 +4,5 @@
 [常量](https://github.com/ningbaoqi/C/blob/master/README-const.md)
 ### 全局变量
 [全局变量](https://github.com/ningbaoqi/C/blob/master/README-globalvariable.md)
+### Enum Union Struct
+[全局变量](https://github.com/ningbaoqi/C/blob/master/README-Enum-Union-Struct.md)
