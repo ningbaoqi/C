@@ -32,3 +32,5 @@
 [输入与输出函数](https://github.com/ningbaoqi/C/blob/master/README-IO-function.md)
 ### 标准函数
 [标准函数](https://github.com/ningbaoqi/C/blob/master/README-standered-function.md)
+### 低级IO
+[低级IO](https://github.com/ningbaoqi/C/blob/master/README-LIO-function.md)
