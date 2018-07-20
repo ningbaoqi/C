@@ -28,3 +28,5 @@
 [诊断函数](https://github.com/ningbaoqi/C/blob/master/README-assert-function.md)
 ### 字符串函数
 [字符串函数](https://github.com/ningbaoqi/C/blob/master/README-string-function.md)
+### 输入与输出函数
+[输入与输出函数](https://github.com/ningbaoqi/C/blob/master/README-IO-function.md)
